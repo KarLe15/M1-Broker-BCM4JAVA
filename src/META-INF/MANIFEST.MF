@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: publisher_subscriber_bcm4java.fr.sorbonne_u.MyDistributedCVM
+

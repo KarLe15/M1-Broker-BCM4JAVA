@@ -1,0 +1,19 @@
+{
+  "repeated" : 127,
+  "messages" :
+  [
+	{
+      "content" : "68xULNxCLK7nJ",
+      "filters" : [
+        {"name" : "KufKmeELjWFEn", "value" : "KoAxh5hSu9Phl" } ,
+ {"name" : "Q8NQFYCW4z02A", "value" : "3N3uxuG70j318" }
+      ],
+      "temps"  : 0,
+      "topics" : [
+        "SRCzsd10L7vGl" ,
+ "bNRUXhxoODDkM"
+      ]
+    }
+  ]
+
+  }

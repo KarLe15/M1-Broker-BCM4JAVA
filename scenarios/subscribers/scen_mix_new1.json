@@ -1,0 +1,20 @@
+{
+  "subscriptions": [
+    {
+      "topic" : "ga0prYnelrrrO",
+      "filters" : [
+        {"name" : "uRfrwzt5qg2VI", "value" : "zAFOvkzthx0x3" } ,
+ {"name" : "TMpaPdIq01EV6", "value" : "r5nv6yvYSqbsD" } ,
+ {"name" : "ZnE2MwbMr5udD", "value" : "uVbJ72DfiIKZT" }
+      ]
+    },
+{
+      "topic" : "v12E1nNDamkNF",
+      "filters" : [
+        {"name" : "ZnE2MwbMr5udD", "value" : "uVbJ72DfiIKZT" } ,
+ {"name" : "5s3cAokleaoiN", "value" : "QrzHT8VxdCaU7" } ,
+ {"name" : "yN0gT6m9OLeSQ", "value" : "cOq2KrynvLSH7" }
+      ]
+    }
+  ]
+}

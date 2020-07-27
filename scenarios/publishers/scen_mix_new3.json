@@ -1,0 +1,53 @@
+{
+  "repeated" : 489,
+  "messages" :
+  [
+	{
+      "content" : "CvHKTROFDW47t",
+      "filters" : [
+        {"name" : "EJmrCiaR48n4c", "value" : "0hNm5KFQQK7tL" } ,
+ {"name" : "6Pai2BpM3l17V", "value" : "ObIaHYSJ0Xkwt" } ,
+ {"name" : "oqoBPn3PImem0", "value" : "Qv6GjoNxTeUI7" } ,
+ {"name" : "i6IvvbozM1A3w", "value" : "KZ6mQne0uqzlO" } ,
+ {"name" : "24bPvkeOT9B4R", "value" : "JQZVjaDcY5Quv" }
+      ],
+      "temps"  : 3,
+      "topics" : [
+        "36LnOd1oSfOpg" ,
+ "VwPermMUg8sah" ,
+ "fcqes5pE8EzOf" ,
+ "dlgQr9BLJmB69" ,
+ "0vqu5wcbKxavo"
+      ]
+    },
+{
+      "content" : "WBGvkuwYwZjgF",
+      "filters" : [
+        {"name" : "24bPvkeOT9B4R", "value" : "JQZVjaDcY5Quv" } ,
+ {"name" : "sYSXk4tl3sdsl", "value" : "aDjmcezMJvde7" } ,
+ {"name" : "AfqUbo4OTAnO9", "value" : "HNYChoxWoVZWi" } ,
+ {"name" : "7cW3WpfCHPVKl", "value" : "1OcxvqvwrRX9U" } ,
+ {"name" : "iX75jQUmpzW1S", "value" : "gPps6CWpCInCy" }
+      ],
+      "temps"  : 4,
+      "topics" : [
+        "3P99QhcSkddoQ"
+      ]
+    },
+{
+      "content" : "4Lrids6h9b3Kd",
+      "filters" : [
+        {"name" : "24bPvkeOT9B4R", "value" : "JQZVjaDcY5Quv" } ,
+ {"name" : "IKAvPCirKPL19", "value" : "GV5cHoAmSbar0" } ,
+ {"name" : "EjesalPKLWP5P", "value" : "wlgNfoXnbqhg5" } ,
+ {"name" : "M4CGC7G9wn1QZ", "value" : "Ul5QSYH9hHaSM" } ,
+ {"name" : "wm62xXlrDHaWo", "value" : "vOe2lcDl04yYN" }
+      ],
+      "temps"  : 4,
+      "topics" : [
+        "OocDhFFsc4Hnj"
+      ]
+    }
+  ]
+
+  }

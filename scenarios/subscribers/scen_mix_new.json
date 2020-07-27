@@ -1,0 +1,22 @@
+{
+  "subscriptions": [
+    {
+      "topic" : "N9wofM9aZrat7",
+      "filters" : [
+        {"name" : "GChmbVDlQgSsz", "value" : "mNpbtAyeqx0Bi" } ,
+ {"name" : "4Q8ZyC0nQUhGw", "value" : "IlhvTSOeh9QJB" } ,
+ {"name" : "3qI94nEn0w0Be", "value" : "Kr5zuzehMletI" } ,
+ {"name" : "NLVRxGRstjiNG", "value" : "UZuMMuUZYj57u" }
+      ]
+    },
+{
+      "topic" : "f9PqEXWHPMAvj",
+      "filters" : [
+        {"name" : "NLVRxGRstjiNG", "value" : "UZuMMuUZYj57u" } ,
+ {"name" : "bcvliPu0tUEBZ", "value" : "nAak23G3UJAGa" } ,
+ {"name" : "owLTdeRc8izpW", "value" : "J2KtrUPmPqPXN" } ,
+ {"name" : "RJ4VXdv1nm8V5", "value" : "649qc2SYOs4YJ" }
+      ]
+    }
+  ]
+}

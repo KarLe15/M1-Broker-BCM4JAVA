@@ -1,0 +1,34 @@
+{
+  "subscriptions": [
+    {
+      "topic" : "QTQcEwrT7r222",
+      "filters" : [
+        {"name" : "TCz0172ASbBJo", "value" : "g7yWgC3GMVEWK" } ,
+ {"name" : "nEAKYTakcDulp", "value" : "nNoBwGyIZSR69" } ,
+ {"name" : "v3fi5Rn42PS6A", "value" : "NQxyNYFBbpU16" } ,
+ {"name" : "KB7Qls1AEmXjU", "value" : "8FDdOvMg8jZj7" } ,
+ {"name" : "yshLl0GaA4iKx", "value" : "o91mroRgnqQij" }
+      ]
+    },
+{
+      "topic" : "dfVdui6U9uPLm",
+      "filters" : [
+        {"name" : "yshLl0GaA4iKx", "value" : "o91mroRgnqQij" } ,
+ {"name" : "A6rnCKa6CpXqD", "value" : "rbkPP1VleepGY" } ,
+ {"name" : "gzEfgd1nZkJgm", "value" : "9S5llbOAEIDgb" } ,
+ {"name" : "eGFTuxmaEI92W", "value" : "kWUtt7CnnrjDo" } ,
+ {"name" : "6FkkZZ71P42aU", "value" : "qqyC3EhILajIk" }
+      ]
+    },
+{
+      "topic" : "YXNv9trrubCVm",
+      "filters" : [
+        {"name" : "yshLl0GaA4iKx", "value" : "o91mroRgnqQij" } ,
+ {"name" : "dIN9OoKlLawon", "value" : "J5B6nz0jMyGOg" } ,
+ {"name" : "HQ9DW5tRlxGS2", "value" : "bXI8XruGHEpdn" } ,
+ {"name" : "YjRbsmXot0fp9", "value" : "aYUqBdHaWLkp5" } ,
+ {"name" : "yOcxxYKS568zZ", "value" : "B2Twfyuijhij4" }
+      ]
+    }
+  ]
+}

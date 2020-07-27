@@ -1,0 +1,3 @@
+## operation, component, scenario, uri
+CREATE,subscriber,scen_mix_new7,subscriber_1
+CREATE,publisher,scen_mix_new7,publisher_1

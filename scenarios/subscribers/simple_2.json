@@ -1,0 +1,21 @@
+{
+  "subscriptions": [
+    {
+      "topic" : "topic",
+      "filters" : [
+        {"name" : "filter1", "value" : "A"},
+        {"name" : "filter0", "value" : "Z"}
+      ]
+    },
+    {
+      "topic" : "azerty",
+      "filters" : [
+        {"name" : "filter2", "value" : "B"}
+      ]
+    },
+    {
+      "topic" : "PC3R",
+      "filters" : []
+    }
+  ]
+}

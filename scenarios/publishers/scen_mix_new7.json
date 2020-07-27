@@ -1,0 +1,17 @@
+{
+  "repeated" : 36,
+  "messages" :
+  [
+	{
+      "content" : "5tI7ZSe0cnZrl",
+      "filters" : [
+        {"name" : "xwzPs9hrZq6hf", "value" : "wcVnCRGgGwPAD" }
+      ],
+      "temps"  : 0,
+      "topics" : [
+        "t88nJQpqPu8DS"
+      ]
+    }
+  ]
+
+  }

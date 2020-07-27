@@ -1,0 +1,26 @@
+{
+  "subscriptions": [
+    {
+      "topic" : "topic",
+      "filters" : [
+        {"name" : "filter4", "value" : "D"},
+        {"name" : "filter2", "value" : "B"}
+      ]
+    },
+    {
+      "topic" : "qwerty",
+      "filters" : [
+        {"name" : "filter4", "value" : "D"},
+        {"name" : "filter3", "value" : "C"}
+      ]
+    },
+    {
+      "topic" : "PC3R",
+      "filters" : []
+    },
+    {
+      "topic" : "CPS",
+      "filters" : []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repeated" : 256,
+  "messages" :
+  [
+	{
+      "content" : "5sSt29XUyxqyT",
+      "filters" : [
+        {"name" : "uRfrwzt5qg2VI", "value" : "zAFOvkzthx0x3" } ,
+ {"name" : "TMpaPdIq01EV6", "value" : "r5nv6yvYSqbsD" } ,
+ {"name" : "ZnE2MwbMr5udD", "value" : "uVbJ72DfiIKZT" }
+      ],
+      "temps"  : 2,
+      "topics" : [
+        "ga0prYnelrrrO" ,
+ "SdyIVvOSC3zBO" ,
+ "HnJJ6O6gebPo4"
+      ]
+    },
+{
+      "content" : "GrqEM1nMg7gBg",
+      "filters" : [
+        {"name" : "ZnE2MwbMr5udD", "value" : "uVbJ72DfiIKZT" } ,
+ {"name" : "jANOCEZsvOpFV", "value" : "VDZrnpTKEEJy1" } ,
+ {"name" : "0ZNnmPR5Yvka9", "value" : "HUNAzE93ZRvNv" }
+      ],
+      "temps"  : 2,
+      "topics" : [
+        "tcvwbPqvsltXG"
+      ]
+    }
+  ]
+
+  }

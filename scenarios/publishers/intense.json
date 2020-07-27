@@ -1,0 +1,75 @@
+{
+  "repeated" : 100,
+  "messages" :
+  [
+    {
+      "content" : "msgContent",
+      "filters" : [
+        {"name" : "filter0", "value" : "Z" },
+        {"name" : "filter1", "value" : "A" },
+        {"name" : "filter2", "value" : "B" },
+        {"name" : "filter3", "value" : "C" },
+        {"name" : "filter4", "value" : "D" },
+        {"name" : "filter5", "value" : "E" }
+      ],
+      "temps"  : 3,
+      "topics" : [
+        "azerty",
+        "qwerty"
+      ]
+    },
+    {
+      "content" : "contentMsg",
+      "filters" : [
+        {"name" : "filter0", "value" : "Z" },
+        {"name" : "filter1", "value" : "A" }
+      ],
+      "temps"  : 15,
+      "topics" : [
+        "topic",
+        "qwerty",
+        "CPS"
+      ]
+    },
+    {
+      "content" : "msgContent",
+      "filters" : [
+        {"name" : "filter1", "value" : "A" },
+        {"name" : "filter2", "value" : "B" },
+        {"name" : "filter5", "value" : "E" }
+      ],
+      "temps"  : 2,
+      "topics" : [
+        "qwerty"
+      ]
+    },
+    {
+      "content" : "msgContent",
+      "filters" : [
+        {"name" : "filter4", "value" : "D" },
+        {"name" : "filter1", "value" : "A" },
+        {"name" : "filter5", "value" : "E" }
+      ],
+      "temps"  : 7,
+      "topics" : [
+        "qwerty",
+        "PC3R"
+      ]
+    },
+    {
+      "content" : "msgContent",
+      "filters" : [
+        {"name" : "filter4", "value" : "D" },
+        {"name" : "filter1", "value" : "A" },
+        {"name" : "filter5", "value" : "E" }
+      ],
+      "temps"  : 23,
+      "topics" : [
+        "qwerty",
+        "PC3R",
+        "azerty",
+        "CPS"
+      ]
+    }
+  ]
+}
